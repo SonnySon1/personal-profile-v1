@@ -1,0 +1,10 @@
+.image-testimoni{
+    border-radius: 60%;
+    border: 5px solid ;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.bg-image{
+    background-color: rgba(0, 0, 0, 0.9);
+}
